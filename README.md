@@ -1,2 +1,3 @@
 # Phyton-code
-ee tak
+thats my phyton code
+
